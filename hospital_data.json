@@ -1,0 +1,19 @@
+{
+    "patients": [],
+    "doctors": [
+        {
+            "Type": "Doctor",
+            "Name": "Jayesh Patel",
+            "Age": 32,
+            "Contact": "9534322145",
+            "Gender": "Male",
+            "Specialization": "MBBS"
+        }
+    ],
+    "appointments": [
+        {
+            "Patient": "Dhruvin",
+            "Doctor": "Jayesh Patel"
+        }
+    ]
+}
